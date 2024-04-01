@@ -1,4 +1,6 @@
 # HALF_SUBTRACTOR
+#aim
+to simulate half subtrator
 # Truth Table
 ![image](https://github.com/RESMIRNAIR/HALF_SUBTRACTOR/assets/154305926/d0d5980a-6bcf-4ede-a54e-6aae3fb5f5f2)
 # Circuit Diagram
